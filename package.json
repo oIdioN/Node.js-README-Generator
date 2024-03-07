@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/oIdioN/Node.js-README-Generator/issues"
   },
-  "homepage": "https://github.com/oIdioN/Node.js-README-Generator#readme"
+  "homepage": "https://github.com/oIdioN/Node.js-README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^9.2.15"
+  }
 }
