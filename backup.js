@@ -36,7 +36,7 @@ function renderBadge(license) {
 
 // Function to generate the README content
 const generateREADME = (answers) => {
-    let badge = renderBadge(answers.license);
+    const badge = renderBadge(answers.license);
     badge += ` This project is licensed under the ${answers.license} license.`;
     return `# ${answers.title}
     
@@ -55,13 +55,11 @@ ${answers.description}
 - **[Usage](#usage)**
 - **[Contributions](#contributions)**
 - **[Contact](#contact)**
-- **[Acknowledgments](#acknowledgments)**
+- **[Acknowledgment](#acknowledgments)**
 
 ## License
 ${answers.license}
-
-This project is licensed under the [${answers.license}](https://opensource.org/licenses/${answers.license.toLowerCase().replace(' ', '_')}) license. <br>
-To learn further about the license, please follow the provided link provided.
+This project is licensed under the [${answers.license}](https://opensource.org/licenses/${answers.license.toLowerCase().replace(' ', '_')}) license.;
 
 ## Features
 ${answers.features}
@@ -79,17 +77,17 @@ ${answers.usage}
 ${answers.contributions}
 
 ## Contact
-For any inquires contact me either at ${answers.email} or     
+For any inquires contact me either at ${answers.email} or /n 
 GitHub: [${answers.github}](https://github.com/${answers.github})
 
-## Acknowledgement
-${answers.acknowledgement}  
+## Acknowledgements
+${answers.acknowledgements}
 
 `;
 };
 
 // Prompt the user for input
-const questions = [
+inquirer.answers([
     {
         type: "input",
         name: "title",
@@ -143,15 +141,17 @@ const questions = [
     },
     {
         type: "input",
-        name: "acknowledgement",
+        name: "acknowledgment",
         message: "Any contributing peers, teams or someone you want to thank for?",
     },
-  ];
 
-// Generating the README file and placing in the _build folder
-inquirer.prompt(questions).then((answers) => {
-     console.log(answers);
 
+
+
+
+
+    // Generating the README file and placing in the _build folder
+]).then((answers) => {
     const readmeContent = generateREADME(answers);
     fs.writeFile('_build/README.md', readmeContent, (err) => {
         if (err) {

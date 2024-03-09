@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/oIdioN/Node.js-README-Generator#readme",
   "dependencies": {
-    "inquirer": "^9.2.15"
+    "inquirer": "^8.0.0"
   }
 }
