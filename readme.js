@@ -43,10 +43,10 @@ const generateREADME = (answers) => {
 
 ${badge}
 
-## Description
+# Description
 ${answers.description}
 
-## Table of Contents
+# Table of Contents
 - **[Description](#description)**
 - **[License](#license)**
 - **[Features](#features)**
@@ -57,7 +57,7 @@ ${answers.description}
 - **[Contact](#contact)**
 - **[Acknowledgments](#acknowledgments)**
 
-## License
+# License
 ${answers.license}
 
 This project is licensed under the [${answers.license}](https://opensource.org/licenses/${answers.license.toLowerCase().replace(' ', '_')}) license. <br>
@@ -66,7 +66,7 @@ To learn further about the license, please follow the provided link provided.
 ## Features
 ${answers.features}
 
-## Installation
+# Installation
 ${answers.installation}
 
 ## Tests
@@ -78,11 +78,11 @@ ${answers.usage}
 ## Contributions
 ${answers.contributions}
 
-## Contact
+# Contact
 For any inquires contact me either at ${answers.email} or     
 GitHub: [${answers.github}](https://github.com/${answers.github})
 
-## Acknowledgement
+# Acknowledgement
 ${answers.acknowledgement}  
 
 `;
