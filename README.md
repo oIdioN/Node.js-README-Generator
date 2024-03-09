@@ -7,11 +7,13 @@
 [![MIT License][license-shield]][license-url]
 
 
-<h3 align="center">README-Generator</h3>
+
+<h1 align="center">Node.js README.md Generator</h1>
+
 
   <p align="center">
-   With this Readme generator the user can quickly and easily create a README file by using a command-line application to generate one.  
-   This allows the project creator to devote more time to working on the project.  
+   With this generator a user quickly and easily can create a README file by using a command-line application.<br>
+   This allows the project creator to devote more time to working on the project.<br>
    The project uses Javascript and runs on Node.js using "inquirer" and "fs" for file manipulation.</p>
    
 </div>
@@ -68,7 +70,7 @@ Run npm install
 
 # Usage
 
-This application runs in the terminal. To use it 
+This application runs in the terminal. To use it type "node readme.js", press enter and answer the questions. The generated README file will be found in the "_build" folder. 
 
 
 # Tutorial
@@ -79,7 +81,7 @@ The video tutorial on how to use this appilacation can be found here:
 
 # Credits
 
-This website was used to help understand how to create the function to write the file: https://nodejs.org/en/learn/manipulating-files/writing-files-with-nodejs
+Node documentation has been explored to learn about file creating and manipulation, such as https://nodejs.org/en/learn/manipulating-files/writing-files-with-nodejs
 
 
 # License
@@ -88,12 +90,6 @@ This project is licensed under the [MIT]  (https://opensource.org/licenses/mit) 
 To learn further about the license, please follow the link provided.
 
 
-# Features
-
-ttt
-
-
-<!-- CONTRIBUTING -->
 # Contributing
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
@@ -104,16 +100,16 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/oIdioN/Bootstrap-Portfolio.svg?style=for-the-badge
-[contributors-url]: https://github.com/oIdioN/Bootstrap-Portfolio/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/oIdioN/Bootstrap-Portfolio.svg?style=for-the-badge
-[forks-url]: https://github.com/oIdioN/Bootstrap-Portfolio/forks
-[stars-shield]: https://img.shields.io/github/stars/oIdioN/Bootstrap-Portfolio.svg?style=for-the-badge
-[stars-url]: https://github.com/oIdioN/Bootstrap-Portfolio/stargazers
-[issues-shield]: https://img.shields.io/github/issues/oIdioN/Bootstrap-Portfolio.svg?style=for-the-badge
-[issues-url]: https://github.com/oIdioN/Bootstrap-Portfolio/issues 
-[license-shield]: https://img.shields.io/github/license/oIdioN/Bootstrap-Portfolio.svg?style=for-the-badge
-[license-url]: https://github.com/oIdioN/Bootstrap-Portfolio?tab=MIT-1-ov-file#readme
+[contributors-shield]: https://img.shields.io/github/contributors/oIdioN/Node.js-README-Generator.svg?style=for-the-badge
+[contributors-url]: https://github.com/oIdioN/Node.js-README-Generator/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/oIdioN/Node.js-README-Generator.svg?style=for-the-badge
+[forks-url]: https://github.com/oIdioN/oIdioN/Node.js-README-Generator/forks
+[stars-shield]: https://img.shields.io/github/stars/oIdioN/Node.js-README-Generator.svg?style=for-the-badge
+[stars-url]: https://github.com/oIdioN/Node.js-README-Generator/stargazers
+[issues-shield]: https://img.shields.io/github/issues/oIdioN/Node.js-README-Generator.svg?style=for-the-badge
+[issues-url]: https://github.com/oIdioN/Bootstrap-PortfoliooIdioN/Node.js-README-Generator/issues 
+[license-shield]: https://img.shields.io/github/license/oIdioN/Node.js-README-Generator.svg?style=for-the-badge
+[license-url]: https://github.com/oIdioN/Node.js-README-Generator?tab=MIT-1-ov-file#readme
 [product-screenshot]: src/images/screenshot/sitecover.png
 [NodeJS]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
 [Node-url]: https://nodejs.org/en
@@ -124,3 +120,6 @@ Don't forget to give the project a star! Thanks again!
 ---
 (c) 2024 oIdioN. All rights reserved.
 </div>
+
+
+https://github.com/oIdioN/Node.js-README-Generator
