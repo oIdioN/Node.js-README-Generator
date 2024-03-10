@@ -66,29 +66,32 @@
 
 In order to use this application, both Node.js (https://nodejs.org/en) and Inquirer Package (https://www.npmjs.com/package/inquirer) has to be installed previously.
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Usage
 
 This application runs in the terminal. To use it type "node readme.js", press enter and answer the questions. The generated README file will be found in the "_build" folder. 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Tutorial
 
 The video tutorial on how to use this appilacation can be found here: 
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Credits
 
 Node documentation has been explored to learn about file creating and manipulation, such as https://nodejs.org/en/learn/manipulating-files/writing-files-with-nodejs
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # License
 
 This project is licensed under the [MIT]  (https://opensource.org/licenses/mit) license. <br>
 To learn further about the license, please follow the link provided.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Contributing
 
