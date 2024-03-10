@@ -1,12 +1,12 @@
-# ss
+#  Readme Generator 
     
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT) This project is licensed under the MIT license.
 
-## Description
-dd
+# Description
+With this generator a user quickly and easily can create a README file by interacting the terminal answering a set of questions.
 
-## Table of Contents
+# Table of Contents
 - **[Description](#description)**
 - **[License](#license)**
 - **[Features](#features)**
@@ -17,31 +17,31 @@ dd
 - **[Contact](#contact)**
 - **[Acknowledgments](#acknowledgments)**
 
-## License
+# License
 MIT
 
 This project is licensed under the [MIT](https://opensource.org/licenses/mit) license. <br>
 To learn further about the license, please follow the provided link provided.
 
 ## Features
-tt
+It allows the project creator to devote more time to working on the project.
 
-## Installation
-jj
+# Installation
+In order to use this application, both Node.js (https://nodejs.org/en) and Inquirer Package (https://www.npmjs.com/package/inquirer) has to be installed previously.
 
 ## Tests
-55
+This will allow you to provide information about your testing framework.
 
 ## Usage
-55
+type node readme.js to launch the application, then answer the questions presented.
 
 ## Contributions
-jj
+If you have a suggestion that would make this better, simply open an issue with the tag "enhancement".
 
-## Contact
-For any inquires contact me either at kk or     
-GitHub: [33](https://github.com/33)
+# Contact
+For any inquires contact me either at csaba@locsey.com or     
+GitHub: [oIdioN](https://github.com/oIdioN)
 
-## Acknowledgement
-kkk  
+# Acknowledgement
+too many names are there.  
 

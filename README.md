@@ -64,7 +64,7 @@
 
 # Installation
 
-Run npm install
+In order to use this application, both Node.js (https://nodejs.org/en) and Inquirer Package (https://www.npmjs.com/package/inquirer) has to be installed previously.
 
 
 
