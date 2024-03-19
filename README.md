@@ -12,7 +12,7 @@
 
 
   <p align="center">
-   With this generator a user quickly and easily can create a README file by using a command-line application.<br>
+   With this generator a user can create a README file by using a command-line application.<br>
    This allows the project creator to devote more time to working on the project.<br>
    The project uses Javascript and runs on Node.js using "inquirer" and "fs" for file manipulation.</p>
    
@@ -110,7 +110,7 @@ Don't forget to give the project a star! Thanks again!
 [stars-shield]: https://img.shields.io/github/stars/oIdioN/Node.js-README-Generator.svg?style=for-the-badge
 [stars-url]: https://github.com/oIdioN/Node.js-README-Generator/stargazers
 [issues-shield]: https://img.shields.io/github/issues/oIdioN/Node.js-README-Generator.svg?style=for-the-badge
-[issues-url]: https://github.com/oIdioN/Bootstrap-PortfoliooIdioN/Node.js-README-Generator/issues 
+[issues-url]: https://github.com/oIdioN/Node.js-README-Generator/issues 
 [license-shield]: https://img.shields.io/github/license/oIdioN/Node.js-README-Generator.svg?style=for-the-badge
 [license-url]: https://github.com/oIdioN/Node.js-README-Generator?tab=MIT-1-ov-file#readme
 [product-screenshot]: src/images/screenshot/sitecover.png
@@ -123,6 +123,3 @@ Don't forget to give the project a star! Thanks again!
 ---
 (c) 2024 oIdioN. All rights reserved.
 </div>
-
-
-https://github.com/oIdioN/Node.js-README-Generator
