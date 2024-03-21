@@ -78,6 +78,10 @@ This application runs in the terminal. To use it type "node readme.js", press en
 
 The video tutorial on how to use this appilacation can be found here: 
 
+
+
+https://drive.google.com/file/d/11_vzRa0MKRYFUZ-nDrXygVzajW3nxuoj/view?usp=sharing
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Credits
